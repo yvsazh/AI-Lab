@@ -16,3 +16,16 @@
 
 ![Image alt](https://github.com/yvsazh/AI-Lab/raw/main/forGitHub/mnist_model.jpg)
 
+Таким чином виглядає тренування:
+
+Використаємо малюнок:
+![Image alt](https://github.com/yvsazh/AI-Lab/raw/main/assets/mnist/82.png)
+
+Отримаємо відповідь нейромережі:
+![Image alt](https://github.com/yvsazh/AI-Lab/raw/main/forGitHub/prediction82.jpg)
+
+Отаким чином налаштовуємо свій датасет .h5:
+
+![Image alt](https://github.com/yvsazh/AI-Lab/raw/main/forGitHub/myDatasetExample.jpg)
+
+
